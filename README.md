@@ -260,8 +260,8 @@ Este projeto é distribuído sob a licença MIT.
 
 <tr>
 <td align="center">
-<a href="https://github.com/dduazk">
-<img src="https://github.com/dduazk.png" width="100px">
+<a href="https://github.com/ddudazk">
+<img src="https://github.com/ddudazk.png" width="100px">
 <br><b>Eduarda Martins</b>
 </a>
 </td>
