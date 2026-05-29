@@ -287,7 +287,7 @@ Este projeto é distribuído sob a licença MIT.
 
 Projeto desenvolvido pelos alunos da turma FIC (Formação Inicial e Continuada) do curso de Programação em Python do SENAI de Alumínio - SP.
 
-O SmartVelocityMonitor foi criado com o objetivo de aplicar conceitos de programação, eletrônica, sensores e sistemas embarcados através do desenvolvimento de um sistema de monitoramento de velocidade utilizando Arduino.
+O Sistema foi criado com o objetivo de aplicar conceitos de programação, eletrônica, sensores e sistemas embarcados através do desenvolvimento de um sistema de monitoramento de velocidade utilizando Arduino.
 
 ---
 
